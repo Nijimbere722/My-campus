@@ -1,6 +1,6 @@
 # Campus_Yacu Website
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Campus Information Website** is a static web application designed to provide students with easy access to important campus locations, student services, and announcements.
 
@@ -10,20 +10,20 @@ This project demonstrates practical skills in **HTML5 and CSS3**, particularly i
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 🧭 Navigation Bar with Dropdown Menus
 - Easy access to campus locations, services, and announcements
 - Clean and responsive navigation structure
 
-### 📌 Sticky Notice Bar
+###  Sticky Notice Bar
 - Important announcements remain visible while scrolling
 
-### 📢 Announcements Section
+### Announcements Section
 - Displays recent campus updates
 - Includes highlighted important notices
 
-### 🧑‍🎓 Student Services Section
+###  Student Services Section
 - Service cards for key student support areas:
   - IT Support
   - Health Center
@@ -31,25 +31,25 @@ This project demonstrates practical skills in **HTML5 and CSS3**, particularly i
   - Student Welfare
   - Registry Services
 
-### 🗺️ Campus Locations Section
+### Campus Locations Section
 - Grid-based layout showcasing important campus locations
 - Organized and easy-to-navigate structure
 
-### 📱 Responsive Design
+### Responsive Design
 - Fully responsive layout
 - Uses **Flexbox and CSS Grid**
 - Works on desktop, tablet, and mobile devices
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure and content
 - **CSS3** – Styling, layout, positioning, and responsiveness
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Monia Nijimbere**
 
